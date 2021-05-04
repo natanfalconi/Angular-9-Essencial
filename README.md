@@ -1,3 +1,3 @@
 # Angular-9-Essencial
 
-#projeto cod3r
+#projeto cod3r - Aulas de Angular
