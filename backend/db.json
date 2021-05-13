@@ -2,8 +2,8 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": 5.89
+      "name": "Caneta BIC Preta simples",
+      "price": "3.89"
     },
     {
       "id": 2,
@@ -12,13 +12,8 @@
     },
     {
       "id": 3,
-      "name": "Sansumg S20+",
-      "price": 5000.89
-    },
-    {
-      "name": "teste rg",
-      "price": "25",
-      "id": 4
+      "name": "Sansumg S20+ ULTRA",
+      "price": "7500.20"
     }
   ]
 }
