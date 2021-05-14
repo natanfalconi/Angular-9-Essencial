@@ -1,19 +1,14 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta BIC Preta simples",
-      "price": "3.89"
+      "name": "Teste de Produção",
+      "price": "52462",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Notebook Mac",
-      "price": 12000.89
-    },
-    {
-      "id": 3,
-      "name": "Sansumg S20+ ULTRA",
-      "price": "7500.20"
+      "name": "Aplicativo",
+      "price": "500",
+      "id": 2
     }
   ]
 }
